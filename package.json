@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "node --version",
     "start": "node app.js"
   },
   "author": "",
